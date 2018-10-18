@@ -1,0 +1,5 @@
+
+Problem solve
+=============
+	1. if report no display error, try with:
+		export DISPLAY=:0.0

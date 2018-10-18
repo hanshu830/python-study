@@ -1,0 +1,30 @@
+Create new envrionment
+----------------------
+	conda create --name snakes python=3.5
+
+
+Activate new environment
+------------------------
+	Windows
+		activate snakes
+
+	Linux & MacOS
+		source active snakes
+
+
+Verify environment has been added and is active
+-----------------------------------------------
+	conda info --envs
+
+
+
+Deactivate envrionment
+----------------------
+	Windows
+		deactivate
+
+	Linux & MacOS
+		source deactivate
+
+
+
